@@ -1,7 +1,10 @@
 Projekt polegal na stworzeniu usugi LAMP skadajacej sie z serwerow:
-*PHP posiadajacego przylaczone sieci backend 
-*APACHE posiadajacego przylaczone sieci backend i frontend oraz wystawiony port 6666 
-*MySQL posiadajacego przylaczone sieci backend 
+
+PHP posiadajacego przylaczone sieci backend.
+
+APACHE posiadajacego przylaczone sieci backend i frontend oraz wystawiony port 6666. 
+
+MySQL posiadajacego przylaczone sieci backend. 
 
 projekt nalezy najpierw zbuildowac poleceniem:
 ```
